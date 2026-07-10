@@ -1,6 +1,8 @@
 # <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JyZHZnNnlxOTJobzQ5Z2F6bm5na3l4cXJnZzY1OTdncDdiNnp4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S8TzUKzRPjepzJx37U/giphy.gif" width="100"/> Welcome, I'm Edwin <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhqazVqNndzaHR4dWw1Mmhlcng5Nm00NjF3aW1oZnRtM211YjN4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50"/>
 
-I'm a Biomedical Engineering student passionate about Computer Science, Data Science, Artificial Intelligence, and Machine Learning.
+I'm a Biomedical Engineer building a professional career in Data Science and Data Analytics through a structured, project-based learning roadmap.
+
+My interests include Computer Science, Data Analytics, Business Intelligence, Machine Learning, Artificial Intelligence, and Healthcare Technology.
 
 I'm currently following a structured self-learning roadmap to build strong foundations in:
 
@@ -19,24 +21,49 @@ My goal is to develop AI solutions for healthcare and medical technology.
 
 ## Current Learning Roadmap
 
-- ✅ Computer Science Fundamentals
-- ⏳ Python
-- ⏳ Git & GitHub
-- ⏳ Data Structures & Algorithms
-- ⏳ SQL & Databases
-- ⏳ Statistics
-- ⏳ Machine Learning
-- ⏳ Deep Learning
-- ⏳ Portfolio Projects
+📍 Current Phase
+
+Phase 1 — Computer Science Foundations (CS50x)
+
+Upcoming Phases
+
+- Python Professional
+- Git & GitHub Professional
+- Linux & Terminal
+- Algorithms
+- Data Structures
+- SQL Professional
+- Databases
+- Mathematics
+- NumPy
+- Pandas
+- Data Visualization
+- Statistics
+- Business Intelligence
+- Machine Learning
+- Deep Learning
+- NLP
+- Data Engineering
+- Cloud
+- Portfolio
 
 ---
 
 ## Technologies
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Python
+C
+Git
+GitHub
+SQL
+PostgreSQL
+NumPy
+Pandas
+Power BI
+Docker
+Linux
+PyTorch
+Scikit-Learn
 
 ---
 
@@ -50,10 +77,13 @@ Each repository represents a new skill, concept, or project completed during my 
 
 ## Long-Term Goals
 
-- Build production-ready Machine Learning projects.
-- Specialize in AI for Healthcare.
-- Contribute to Open Source.
-- Work as a Data Scientist / Machine Learning Engineer.
+Work professionally as a Data Analyst or Data Scientist.
+
+Design data-driven solutions that combine analytics, machine learning, and artificial intelligence.
+
+Specialize in AI applications for healthcare and biomedical engineering.
+
+Build production-ready data products and contribute to open-source projects.
 
 ---
 
